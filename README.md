@@ -3,7 +3,7 @@
 
 # Interest
 - AWS lambda
-- NOSQL
+- NoSQL(AWS dynamoDB, firebase)
 - SSR, SEO
 - Next.js 
 - Vue3 And Vite
