@@ -1,5 +1,5 @@
 # Full Stack WEB Engineer
-- Full Stack WEB Engineer IN Developer Group (2020.02 ~)
+- Full Stack WEB Engineer in Developer Group (2020.02 ~)
 
 # Interest
 - AWS lambda
