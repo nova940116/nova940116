@@ -5,5 +5,6 @@
 - Serverless
 - Gatsby.js
 - Next.js
+- Typescript
 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nova940116@gmail.com)](mailto:nova940116@gmail.com)
