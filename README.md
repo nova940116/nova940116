@@ -6,7 +6,7 @@
 # Career
 - Full Stack Developer in Developer Group (2020.02 ~ 2022.02)
 
-# SKills And Experience
+# Skills And Experience
 - Serverless
 - Vue3 + Vuex
 - React
