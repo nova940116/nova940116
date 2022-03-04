@@ -12,6 +12,8 @@
 - React
 - Tailwind CSS
 - Next.js
+- Node.js
+- Express
 - Typescript
 - Mysql
 - AWS
