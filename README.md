@@ -1,7 +1,8 @@
 # Jeonghyun Yoon
 
-뛰어난 웹 엔지니어를 꿈꾸는 윤정현 입니다.   
-개발경험(DX)을 중요하게 생각하고있습니다.   
+뛰어난 웹 엔지니어를 꿈꾸는 윤정현 입니다 :)   
+사용자 경험(UX)만큼 개발 경험(DX)또한 중요하다는 마음가짐을 가지고 있습니다   
+요즘엔 GraphQL, Serverless에 관심을 가지고 있습니다
 
 # Career
 - Full Stack Developer in Developer Group (2020.02 ~ 2022.02)
