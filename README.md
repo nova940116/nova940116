@@ -30,5 +30,9 @@
 - Survey 
   - WEBSITE | https://survey.novauniverse.me
   - GITHUB | https://github.com/nova940116/survey
-  
+ 
+ # More
+ - Notion | https://humdrum-gastonia-06a.notion.site/Portpolio-30369d9621d447b48a73a244f7680005
+ 
+ 
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nova940116@gmail.com)](mailto:nova940116@gmail.com)
