@@ -30,6 +30,9 @@
 - Survey 
   - WEBSITE | https://survey.novauniverse.me
   - GITHUB | https://github.com/nova940116/survey
+- Blog
+  - WEBSITE | https://blog.novauniverse.me
+  - GITHUB | https://github.com/nova940116/blog
  
  # More
  - Notion | https://humdrum-gastonia-06a.notion.site/Portpolio-30369d9621d447b48a73a244f7680005
